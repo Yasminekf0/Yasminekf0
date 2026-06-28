@@ -16,6 +16,6 @@
 
 ---
 
-**Building with:** Python · TypeScript/React/Next.js · LLMs & agentic workflows · RAG · n8n · Azure / Microsoft Fabric · PostgreSQL
+**Building with:** Python · TypeScript/React/Next.js · LLMs & agentic workflows · RAG · n8n · Azure / Microsoft Fabric · SQL
 
 📄 [CV](https://drive.google.com/file/d/1cy02w2cAF2X3vJJ9A-doRN-eP2VQLUnX/view) · 💼 [LinkedIn](https://linkedin.com/in/yasmine-kennou-filali) · 🌐 [Portfolio](yasmine.okara.dev)
