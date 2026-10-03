@@ -11,7 +11,7 @@
 
 *(Company code is private. A public write-up is coming soon.)*
 
-**Hackathons, 48 hours each:**
+**Hackathons:**
 
 | | Project | What it does |
 |---|---|---|
