@@ -1,6 +1,6 @@
 ## Heyy, I'm Yasmine 👋
 
-**AI Engineer** in Copenhagen who ships full-stack systems that replace manual work end-to-end :). I take things from messy business problem to production system, and I usually ship the whole stack myself. I take things from prototype to production and ship the whole stack myself :)
+**AI Engineer** in Copenhagen who ships full-stack systems that replace manual work end-to-end :)
 
 **Now:** the only engineer at [Nordic Well Group](https://nordicwellgroup.com/) (9 supplement brands, 8 Nordic markets). I built **ProductHub**, the company's product information platform:
 
@@ -26,4 +26,4 @@
 
 🎓 BSc Engineering (Cyber Systems) @ **DTU** · exchange @ **Tongji University, Shanghai**
 
-💼 [LinkedIn](https://linkedin.com/in/yasmine-kennou-filali) · ✉️ yasmine.kf0@gmail.com · 🌐 [Portfolio](yasmine.okara.dev)
+💼 [LinkedIn](https://linkedin.com/in/yasmine-kennou-filali) · ✉️ yasmine.kf0@gmail.com · 🌐 [Portfolio](https://yasmine.okara.dev/)
